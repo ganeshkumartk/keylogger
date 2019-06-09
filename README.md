@@ -1,2 +1,2 @@
 # keylogger
-simple keystroke logger for Linux
+Simple keystroke logger for Linux
