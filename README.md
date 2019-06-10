@@ -10,7 +10,7 @@ Check that you have git installed, and then run this.
 
 `git clone https://github.com/coderganesh/keylogger`
 
-This will clone this entire repo. Find the folder, extract it, and open it. Rename the extracted folder to `linux-logger` Then run this:
+This will clone this entire repo. Find the Linux folder, extract it, and open it. Rename the extracted folder to `linux-logger` Then run this:
 
 `$ cd linux-logger/`
 
